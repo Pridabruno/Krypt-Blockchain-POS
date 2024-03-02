@@ -1,5 +1,5 @@
 # KryptBlockchain
-Krypt Blockchain
+Krypt Blockchain Proof Of Stake
 
 Greetings,
 
