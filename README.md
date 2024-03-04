@@ -35,5 +35,7 @@ API: Exposes a REST API to query the state of the blockchain and submit transact
 
 Contributions welcome! Read our contribution guide.
 
+if you are interested, contact me: brunoprida1@gmail.com
+
 Best regards,
 Bruno.
