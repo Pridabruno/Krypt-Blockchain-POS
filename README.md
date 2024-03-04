@@ -1,24 +1,39 @@
-# KryptBlockchain
+# Krypt Blockchain
 
-Krypt Blockchain Proof Of Stake
+Krypt Blockchain
 
-Greetings,
+Krypt is a public blockchain designed for the tokenization and decentralized exchange of all types of assets and securities.
 
-I have developed a blockchain network from scratch using Python, specifically employing a proof of stake consensus mechanism. Currently, I am seeking a community on GitHub to collaborate in refining and expanding upon this project to cultivate a novel vision.
+Vision
+Krypt's vision is to facilitate the representation of real-world assets, such as real estate, commodities, services, among others, in the form of interchangeable tokens on our public blockchain, expanding investment and financing possibilities for millions of people.
 
-The primary objective of this endeavor is to establish a blockchain infrastructure capable of tokenizing assets, particularly real estate holdings. These assets, referred to as "Kryptons," are stored and managed within the blockchain network, with the network's native cryptocurrency named "Krypt."
+Key Features
+Native Cryptocurrency Krypt (KPT): Native medium of exchange within the Krypton network for executing transactions and paying fees.
+Asset Tokenization: Real-world assets can be tokenized to create fungible tokens on the Krypton blockchain.
+Decentralized Platform: Based on a blockchain network of nodes with a Proof-of-Stake consensus protocol.
+Smart Contracts: Allows for the creation of rules and automation of processes through self-executable code on the blockchain.
+Fast and Secure Transactions: Thanks to its PoS consensus and lightweight architecture.
 
-My aim is to enhance the existing codebase and foster a robust community around this project, recognizing that individual efforts may not suffice in identifying all potential shortcomings.
+Use Cases
+Some examples of how Krypt could be applied:
 
-In addition to facilitating blockchain transactions and asset tokenization, the overarching vision entails the establishment of a marketplace within our network, enabling users to purchase these tokenized assets and assume ownership in the physical realm.
+A real estate agency tokenizes each of its properties to represent fractions of ownership and sell them globally.
+An energy company generates tokens backed by its renewable energy production. Investors worldwide can exchange and trade these "Clean Energy Certificates."
+An investment fund tokenizes its investment portfolio, allowing instant capital inflow and outflow.
+The possibilities are immense. With Krypt, we tokenize the world!
 
-Central to this objective is the implementation of smart contracts to facilitate the seamless transfer of ownership following asset acquisition. Currently, the project's scope is centered on the utilization of Krypt and Kryptons exclusively.
+Current Status
+Krypt is an early-stage project that has a functioning MVP: Krypt currently has a Minimum Viable Product (MVP) with the core functionalities of a blockchain:
 
-The project focuses on a decentralized application that connects to our blockchain network, where users can tokenize their assets (Kryptons), and others can purchase those assets (Krypt).
+Block Generation: It has a Block structure chained to form the blockchain, starting with the genesis block.
+Proof of Stake Validation: Implements a PoS consensus protocol where validators are chosen based on their stake deposits.
+Transactions: Allows for transfers of the native cryptocurrency Krypt between accounts through transactions that are verified and stored in blocks.
+Accounts and Balances: Maintains a record of accounts and their available balances in both the native cryptocurrency and tokenized asset tokens.
+Asset Tokenization: Features logic to tokenize real-world assets, generating tokens on the blockchain that represent fractional ownership of such assets.
+P2P Interface: Enables decentralized node communication via a peer-to-peer protocol to propagate transactions and blocks.
+API: Exposes a REST API to query the state of the blockchain and submit transaction or tokenization requests.
 
-Should you find this project intriguing and wish to contribute, please feel free to reach out to me via my personal email at brunoprida1@gmail.com.
-
-Thank you for considering involvement in this initiative.
+Contributions welcome! Read our contribution guide.
 
 Best regards,
 Bruno.
